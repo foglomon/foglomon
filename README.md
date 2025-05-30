@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishman</h1>
-<h3 align="center">A passionate developer/keyboard enthusiast from India</h3>
+<h3 align="center">A passionate developer/keyboard enthusiast</h3>
 
 ## 💫 About Me:
 
